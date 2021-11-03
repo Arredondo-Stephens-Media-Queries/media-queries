@@ -1,0 +1,10 @@
+body {
+    background: hotpink;
+}
+
+.alert-info {
+    background: lightskyblue;
+    width: 100%;
+    text-align: center;
+    border: 2px solid olivedrab;
+}
